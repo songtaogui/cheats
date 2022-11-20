@@ -1,3 +1,4 @@
+songtaogui/cheats
 denisidoro/cheats
 denisidoro/navi-tldr-pages
 denisidoro/dotfiles
